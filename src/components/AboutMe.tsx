@@ -191,17 +191,6 @@ const AboutMe = () => {
           {/* Habilidades Destacadas */}
           <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
             <div className="flex flex-col items-center text-center border-2 border-gray-300 rounded-lg p-6 hover:bg-gray-100 transition duration-300 ease-in-out transform hover:scale-105">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="w-16 h-16 text-blue-500 mb-4"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M12 2v20M2 12h20" />
-              </svg>
               <h5 className="text-lg font-semibold">Resolución de problemas</h5>
               <p className="text-gray-600 mt-2">
                 Disfruto resolver problemas complejos con soluciones simples y
@@ -209,17 +198,6 @@ const AboutMe = () => {
               </p>
             </div>
             <div className="flex flex-col items-center text-center border-2 border-gray-300 rounded-lg p-6 hover:bg-gray-100 transition duration-300 ease-in-out transform hover:scale-105">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="w-16 h-16 text-green-500 mb-4"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M12 2v20M2 12h20" />
-              </svg>
               <h5 className="text-lg font-semibold">Trabajo en equipo</h5>
               <p className="text-gray-600 mt-2">
                 Valoro el trabajo colaborativo y la comunicación fluida para
@@ -227,17 +205,6 @@ const AboutMe = () => {
               </p>
             </div>
             <div className="flex flex-col items-center text-center border-2 border-gray-300 rounded-lg p-6 hover:bg-gray-100 transition duration-300 ease-in-out transform hover:scale-105">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="w-16 h-16 text-red-500 mb-4"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M12 2v20M2 12h20" />
-              </svg>
               <h5 className="text-lg font-semibold">Aprendizaje continuo</h5>
               <p className="text-gray-600 mt-2">
                 Me apasiona aprender nuevas tecnologías y mejores prácticas
